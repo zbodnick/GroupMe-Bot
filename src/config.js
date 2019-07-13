@@ -1,7 +1,7 @@
-exports.ACCESS_TOKEN = "GroupMe access token";
-exports.BOT_ID = "GroupMe bot ID";
-exports.GROUP_ID = "GroupMe group id";
-exports.GIHPY_KEY = 'Giphy API key';
+exports.ACCESS_TOKEN = "anmZsD4o4uhv0v2tI5JD3sOVWeWapp47oYlj1Fuw";
+exports.BOT_ID = "4fd01f116303525d1c6e9abec2";
+exports.GROUP_ID = "39619116";
+exports.GIHPY_KEY = '4HRvQdrGBEh2ifLYoNQH4h0Wyyt2or1o';
 
 exports.DEFAULT_MSGS_TO_ANALYZE = "2000";
 
