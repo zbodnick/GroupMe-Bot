@@ -1,5 +1,5 @@
 {
-  "name": "http://gszn.herokuapp.com/",
+  "name": "http://gsznbot.herokuapp.com/",
   "version": "0.1.0",
   "description": "A simple GroupMe bot",
   "main": "src/index.js",
