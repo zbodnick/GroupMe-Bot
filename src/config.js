@@ -7,5 +7,5 @@ exports.DEFAULT_MSGS_TO_ANALYZE = "2000";
 
 exports.TEST = false;
 
-exports.USER_LIKE = { id: '20761753', name: 'Zach Bodnick' };
+exports.USER_LIKE = { id: 'user id', name: 'user name' };
 exports.USER_ADD = { id: 'user id', name: 'user name' };
